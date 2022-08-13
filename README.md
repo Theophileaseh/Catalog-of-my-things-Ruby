@@ -19,9 +19,6 @@
 - Github
 - Visual Studio Code
 
-## Link to the video
-
-[Video link](https://www.loom.com/share/1b87265f7dd44183886d59b40d21fed3)
 
 ## Getting Started
 
@@ -35,11 +32,11 @@ To get the content of this project locally you need:
 
 #### Clone the repository
 
-Run ``` git clone https://github.com/MaganaAsiati/ruby_capstone_catalog_of_things.git``` in your terminal
+Run ``` git clone https://github.com/Theophileaseh/Catalog-of-my-things-Ruby.git``` in your terminal
 
 #### Move in the directory with
 
-``` cd ruby-capstone ```
+``` cd Catalog-of-my-things-Ruby ```
 
 ### Run project
 
@@ -59,6 +56,12 @@ Run ``` git clone https://github.com/MaganaAsiati/ruby_capstone_catalog_of_thing
 
 ## Authors
 
+👤 **Nwachan Theophile** 
+
+- GitHub: [@Theophileash](https://github.com/Theophileaseh)
+- Twitter: [@NwachanT](https://twitter.com/NwachanT) 
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile)
+
 👤 **Magana Assia**
 
 - GitHub: [@MaganaAsiati ](https://github.com/MaganaAsiati)
@@ -71,11 +74,6 @@ Run ``` git clone https://github.com/MaganaAsiati/ruby_capstone_catalog_of_thing
 - Twitter: [@Patrick](https://twitter.com/mukunzipat)
 - LinkedIn: [@Patrick](https://www.linkedin.com/in/patrick-mukunzi/)
 
-👤 **Nwachan Theophile** 
-
-- GitHub: [@Theophileash](https://github.com/Theophileaseh)
-- Twitter: [@NwachanT](https://twitter.com/NwachanT) 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/nwachan-theophile)
 
 ## 🤝 Contributing
 
